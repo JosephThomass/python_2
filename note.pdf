@@ -1,0 +1,8 @@
+loop control statements
+  break to break and exit a loop
+  continue skip a particular condition
+  pass just pass no operation inclueded  in the  loop but loop is necessory.
+
+
+nested loop in c is called innerloop
+    

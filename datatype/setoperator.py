@@ -1,8 +1,8 @@
-
+[]
 
 set1={'a','b','c','d'}
 set2={'d','e','f','g'}
-
+set3={'f','g','h','i'}
 # union
 
 # using union function
@@ -10,7 +10,7 @@ print("Union operation using function: ")
 print(set1.union(set2))
 # using | opertator
 print("Union operation using operator: ")
-print(set1 | set2)
+print(set1 | set2 | set3)
 
 # intersection
 
@@ -27,7 +27,7 @@ print("Difference operation using function: ")
 print(set1.difference(set2))
 
 # using - opertator
-print(set1-set2)
+print(set1-set2-set3)
 
 # SYMATRIC DIFFERENCE
 # using function

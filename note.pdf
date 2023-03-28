@@ -6,3 +6,24 @@ loop control statements
 
 nested loop in c is called innerloop
     negative index starting from -1
+
+
+
+
+
+
+Exception handling
+
+try:
+  |_________code expecte to make error_____
+
+
+
+exception:
+  |__________statment if error occoured____
+
+
+
+
+
+

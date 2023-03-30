@@ -3,7 +3,7 @@ class vehicle:
         print("Inside vechile class")
 class car(vehicle):
     def car_info(self):
-        print("Insied Car class")
+        print("Inside Car class")
 
 class SpotsCar(car):
     def sports(self):

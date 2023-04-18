@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: rgba(240, 240, 251, 0.875);
+    min-height: 100vh;
+}
+
+.top-bar {
+    background-color: rgb(57, 57, 151);
+    display: flex;
+    justify-content: right;
+    height: 5.5rem;
+    padding-right: 8rem;
+}
+
+h1 {
+    color: white;
+    font-weight: bolder;
+    font-size: 45px;
+    margin-right: 400px;
+    margin-top: 25px;
+}
+
+.reduce {
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+
+.password-space, .email-space {
+    margin: 12px  15px 0 15px;
+}
+
+.email, .password {
+    height: 28px;
+    width: 12rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.retrive {
+    text-decoration: none;
+    color: rgb(195, 191, 191);
+    font-size: 13px;
+}
+
+.btn {
+    margin-top: 35px;
+    height: 28px;
+    width: 4rem;
+    background-color: rgb(52, 52, 155);
+    color: white;
+    border: 2px solid rgb(38, 38, 126);
+}
+
+h2 {
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+img {
+    height: 190px;
+}
+
+.box {
+    display: flex;
+    background-color: rgba(240, 240, 251, 0.875);
+}
+
+.image {
+    margin-right: 90px;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 280px;
+}
+
+.first-name, .surname {
+    height: 38px;
+    width: 248px;
+    margin-right: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(169, 165, 165);
+}
+
+.mobile, .password2 {
+    height: 38px;
+    width: 510px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(169, 165, 165);
+}
+
+.date {
+    height: 30px;
+    width: 248px;
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
+
+.extra1 {
+    font-size: 14px;
+    height: 18px;
+    width: 18px;
+    font-weight: 900;
+    border: none;
+    border-radius: 50%;
+    margin-left: 14px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(61, 56, 56);
+}
+.extra2 {
+    font-size: 14px;
+    height: 18px;
+    width: 18px;
+    font-weight: 900;
+    border: none;
+    border-radius: 50%;
+    margin-left: 8px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(61, 56, 56);
+}
+
+#male, #female, #custom {
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.radio-check1, .radio-check2 {
+    margin-right: 28px;
+    font-weight: bold;
+}
+
+.radio-check3 {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.policy {
+    text-decoration: none;
+    color: blue;
+}
+
+.conditions {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+
+.reg {
+    width: 240px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(49, 144, 49);
+}
+
+
+
+
